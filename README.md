@@ -7,7 +7,7 @@ This application predicts the outcome of football matches using four trained mod
 - **Gaussian Naive Bayes (GNB)**
 - **Histogram-based Gradient Boosting (HGB)**
 - **K-Nearest Neighbors (KNN)**
-- **Random Forest (RF)**
+- **Random Forest (RF)** (Not uploaded due to file size)
 
 The application leverages these models to predict match outcomes based on the chosen algorithm.
 
